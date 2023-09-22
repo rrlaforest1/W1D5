@@ -9,16 +9,23 @@ Group Git it:
 
     map()
     filter()
-    reduce()
 
 Group Beep-Beep:
 
-    find()
-    sort()
     flat()
+    reduce()
 
 Group Masterminds:
 
+    find()
     some()
+
+Group Anon-Coder:
+
+    sort()
     at()
+
+Group Foo:
+
     every()
+    splice()
